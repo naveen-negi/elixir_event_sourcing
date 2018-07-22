@@ -1,4 +1,4 @@
-# LmsService
+# Elixir event sourcing
 
 To start your Phoenix server:
 
